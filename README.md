@@ -1,8 +1,7 @@
 # Test_Projects
 Test_Projects
 
-scvosh
-fix conflict
+SS_fix conflict
 Changes from pc -> 1
 
 Changes from server -> 2
